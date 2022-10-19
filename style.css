@@ -1,10 +1,14 @@
 * {
 	margin: 0px auto;
+	padding: 0;
 }
 
 body {
 	width: 900px;
-	
+}
+
+nav {
+	margin-bottom: 10px;
 }
 
 nav ul {
@@ -62,9 +66,17 @@ body section article header p{
 	margin-bottom: 50px;
 }
 
-aside {
-	float: right;
-	margin-right: 0px;
+a {
+	color: white;
+}
+
+body section article table {
+	margin: 10px 10px;
+}
+
+body section article table ul li {
+	list-style: none;
+	text-align: center;
 }
 
 footer {
@@ -73,3 +85,4 @@ footer {
 	text-align: center;
 	padding: 10px;
 }
+
