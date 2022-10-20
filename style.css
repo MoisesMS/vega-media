@@ -7,10 +7,6 @@ body {
 	width: 900px;
 }
 
-nav {
-	margin-bottom: 10px;
-}
-
 nav ul {
 	width: 900px;
 	list-style: none;
@@ -84,5 +80,6 @@ footer {
 	color: white;
 	text-align: center;
 	padding: 10px;
+	float: bottom;
 }
 
